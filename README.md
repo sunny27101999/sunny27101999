@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sunny27101999
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning selenium screenplay 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sunny27101999/sunny27101999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Sunny (@sunny27101999)
+🔍 Passionate about Automation Testing and Quality Assurance
+💼 Currently working as an SDET with expertise in web, mobile, and API automation
+🤝 Open to collaboration on automation projects and testing innovations
+📫 Feel free to reach out via LinkedIn or email:   [https://www.linkedin.com/in/sunny-kumar-714b63218/]      [sunny27101999@gmail.com]
